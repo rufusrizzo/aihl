@@ -1,0 +1,13 @@
+male600.wav
+female600.wav
+engm_g726.wav
+engf_g726.wav
+engf_cvsd.wav
+engm_cvsd.wav
+nsa_m1.wav
+nsa_f1.wav
+ENG_M.wav
+female.wav
+male.wav
+nsa_f.wav
+nsa_m.wav

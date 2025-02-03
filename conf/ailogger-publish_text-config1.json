@@ -1,0 +1,11 @@
+{
+    "broker": "localhost",
+    "port": 1883,
+    "mqtt_topic": "ailogger/transcription",
+    "stream_number": 1,
+    "wav_files": [
+        "wav-samples/male.wav",
+        "wav-samples/female.wav"  
+    ]
+}
+
