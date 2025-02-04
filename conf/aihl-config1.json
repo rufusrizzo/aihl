@@ -1,0 +1,8 @@
+{
+    "output_directory": "/home/riley/git/aihl/capture_files/one",
+    "channels": 2,
+    "sample_rate": 44100,
+    "recording_duration": 30,
+    "audio_device_index": 1
+}
+

@@ -1,0 +1,15 @@
+{
+    "broker": "localhost",
+    "port": 1883,
+    "mqtt_topic": "ailogger/transcription",
+    "stream_number": 1,
+    "audio_device": 4,
+    "wav_directory": "./capture_files/one",
+    "max_files": 10,
+    "local_offset": -300,  
+    "debug": true,
+    "log_file": "./logs/ch1-transcription.log",
+    "sample_wav_file": "./wav-samples/female.wav"
+
+}
+
