@@ -1,4 +1,4 @@
-# AIHL Audio Transcription System
+# AIHL (AI Ham Logger) Audio Transcription System
 
 The inspiration for this project was POTA logging, Hurricane Helene (2024) after action, and the bike rides our Ham club VARA helps with.  The long term goal is the create a HW box that you connect your radio to and it breaks out audio to a computer with two or more Audio capture cards, and you can still use your radio normally.  The computer will transcribe the audio transmitted and received then output text to  several places to see and have for later.
 This project involves a set of Python scripts to record audio, process it, transcribe the speech to text using Whisper, and publish the transcriptions to an MQTT broker. The system is designed to handle continuous recording and transcription, while managing the stored WAV files.
